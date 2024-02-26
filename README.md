@@ -1,4 +1,8 @@
-### Hi there 👋
+# Vassilios Zalimidis
+
+**`Full Stack JavaScript Developer`**
+
+Dedicated Full Stack JavaScript Developer with a passion for building scalable, efficient, and user-friendly web applications. Proficient in a wide range of technologies with a strong foundation in ReactJS, Redux, and modern JavaScript frameworks. Adept at collaborating with cross-functional teams to deliver projects that exceed expectations. Committed to continuous learning and leveraging the latest technologies to solve complex problems and improve user experiences.
 
 <!--
 **Shuin-San/Shuin-San** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
